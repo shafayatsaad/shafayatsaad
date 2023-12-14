@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about Python
 - 📫 How to reach me **shafayat.saad30@gmail.com**
-- ⚡ Fun fact I think I am funny
+- ⚡ Fun fact I really think I am funny
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
