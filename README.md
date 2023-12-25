@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shafayat Saad
 =====================================================================================================================================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayatsaad&label=Profile%20views&color=0e75b6&style=flat" alt="shafayatsaad" /> </p>
@@ -34,5 +33,3 @@ I love to code!!
 <a href="http://www.github.com/shafayatsaad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shafayatsaad&stroke=ffffff&background=ffffff&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/shafayatsaad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatsaad&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
