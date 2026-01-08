@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshafayatsaad%2Fshafayatsaad&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <img src="https://komarev.com/ghpvc/?username=shafayatsaad&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ###
@@ -11,12 +11,9 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=shafayatsaad&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatsaad&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafayatsaad&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatsaad&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -95,7 +92,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafayatsaad/shafayatsaad/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shafayatsaad/shafayatsaad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shafayatsaad/shafayatsaad/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Game - Wait for Action to Run" src="https://raw.githubusercontent.com/shafayatsaad/shafayatsaad/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
