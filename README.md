@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shafayatsaad&theme=dracula&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=shafayatsaad&theme=dracula&hide_border=true" height="150" alt="streak graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatsaad&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
@@ -95,7 +95,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafayatsaad/shafayatsaad/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shafayatsaad/shafayatsaad/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Game - Wait for Action to Run" src="https://raw.githubusercontent.com/shafayatsaad/shafayatsaad/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shafayatsaad/shafayatsaad/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
