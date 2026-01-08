@@ -11,9 +11,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shafayatsaad&theme=dracula&hide_border=true" height="150" alt="streak graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatsaad&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+
+[![Streak Stats](https://streak-stats.demolab.com/?user=shafayatsaad&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatsaad&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ###
