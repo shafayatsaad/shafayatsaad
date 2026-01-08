@@ -10,13 +10,13 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=shafayatsaad&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="general stats" />
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=shafayatsaad&theme=shadow_green&hide_border=false" height="150" alt="streak stats" />
 
-  <br/>
+  <br/> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatsaad&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="top languages" />
 
