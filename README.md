@@ -11,9 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shafayatsaad&theme=dracula&hide_border=true&v=3" height="160" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shafayatsaad&show_icons=true&theme=dracula&hide_border=true" height="150" alt="general stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayatsaad&layout=compact&theme=dracula&hide_border=true&v=3" height="160" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=shafayatsaad&theme=dracula&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ###
